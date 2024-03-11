@@ -1,7 +1,7 @@
 'use strict'
 //Hacer un programa que salude
 console.log("Hola")
-document.write("Hola") */
+document.write("Hola")
 
 // Hacer un programa que salude por nombre, si no recibe nombre solo saludar Hola.
 /* const nombreUsuario = prompt("Ingrese su nombre");
